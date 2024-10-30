@@ -1,4 +1,4 @@
-#### C++7-3
+#### C++7장 3번
  * ComplexManager 클래스의 멤버함수로 ComplexAdd, ComplexSub를 선언하는 코드
 ---
 ##### 결과
