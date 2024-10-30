@@ -1,4 +1,4 @@
-#### C++7장-1 실습과제 3번
+#### C++7장-1 실습문제 3번
  * ComplexManager 클래스의 멤버함수로 ComplexAdd, ComplexSub를 선언하는 코드
 ---
 ##### 결과
