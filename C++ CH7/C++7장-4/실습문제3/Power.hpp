@@ -1,5 +1,5 @@
-#ifndef _COMPLEX_HPP_	//조건부 컴파일 지시자
-#define _COMPLEX_HPP_	//매크로 상수
+#ifndef _POWER_HPP_	//조건부 컴파일 지시자
+#define _POWER_HPP_	//매크로 상수
 class Power;            //클래스 Power선언
 Power operator*(int x,Power op);//연산자함수 선언
 class Power{            //Power 클래스 선언
