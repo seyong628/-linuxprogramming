@@ -1,5 +1,5 @@
-#ifndef _CIRCLE_HPP_	//조건부 컴파일 지시자
-#define _CIRCLE_HPP_	//매크로 상수
+#ifndef _POINT_HPP_	//조건부 컴파일 지시자
+#define _POINT_HPP_	//매크로 상수
 #include <iostream>	//iostream include
 #include <string>   //string include
 using namespace std;	//std 이름고간에 선언된 모든 이름에 std 생략
