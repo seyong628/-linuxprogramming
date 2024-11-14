@@ -13,8 +13,8 @@ int main(){             //main 함수
     double b[4] = {3.14, 1.5, -6.0, 0.5};//배열 선언
     char c[3] = {'a', 'x', 'p'};//배열 선언
 
-    cout<<"정수배열의 최대값은 "<<getmax <int>(a,5)<<endl;//안내문 출력 및 getmax함수 호출
-    cout<<"실수배열의 최대값은 "<<getmax <double>(b,4)<<endl;//안내문 출력 및 getmax함수 호출
-    cout<<"문자배열의 최대값은 "<<getmax <char>(c,3)<<endl;//안내문 출력 및 getmax함수 호출
+    cout<<"정수배열의 최대값은 "<<getmax(a,5)<<endl;//안내문 출력 및 getmax함수 호출
+    cout<<"실수배열의 최대값은 "<<getmax(b,4)<<endl;//안내문 출력 및 getmax함수 호출
+    cout<<"문자배열의 최대값은 "<<getmax(c,3)<<endl;//안내문 출력 및 getmax함수 호출
     return 0;//0을 반환하고 함수 종료
 }   //함수 끝
